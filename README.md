@@ -6,7 +6,7 @@
 
 > 간단한 게시판 프로그램입니다.
 
-[여기](http://st02.dothome.co.kr/project01/view.php)를 클릭해서 게시물을 직접 작성해보세요.  
+> [여기](http://st02.dothome.co.kr/project01/view.php)를 클릭해서 게시물을 직접 작성해보세요.  
 아래의 사용법을 참고하세요.👇  
 ___
 
