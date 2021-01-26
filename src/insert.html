@@ -1,0 +1,55 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>글쓰기</title>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+
+<form name="insert" action="insert.php" method="post">
+    <table width="606" align="center" cellspacing="0" bordercolordark="white" bordercolorlight="black" cellpadding="0">
+        <tr>
+            <td width="600" height="25" bordercolor="white" bgcolor="#0033FF" colspan="2">
+                <p align="center">&nbsp;<span style="font-size:9pt;"></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="105" height="35" bgcolor="#D7E6F5">
+                <p align="right"><span style="font-size:9pt;">제목&nbsp;&nbsp; &nbsp;</span></p>
+            </td>
+            <td width="491" height="27" bgcolor="#D7E6F5">                
+                <p><span style="font-size:9pt;">
+                   <input type="text" name="subject" size="60" class="inputBox" value="" maxlength="100"></span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="105" height="230" bgcolor="#D7E6F5">
+                <p align="right"><span style="font-size:9pt;">내용&nbsp;&nbsp; &nbsp;</span></p>
+            </td>
+            <td width="491" height="230" bgcolor="#D7E6F5">                
+                <p><textarea name="content" cols="60" rows="14" class="inputBox"></textarea></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="600" height="35" colspan="2" bgcolor="#D7E6F5">
+                <p align="center">
+                <input type="submit" name="확인" value="확인" style="font-size:9pt;"> 
+                  &nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="reset" name="취소" style="font-size:9pt;" value="취소">
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="600" height="7" bgcolor="#0033CC" colspan="2"><span style="font-size:9pt;">&nbsp;</span></td>
+        </tr>
+        <tr>
+            <td width="600" height="7" colspan="2" bgcolor="white">
+                <p><span style="font-size:9pt;"><a href="./view.php">[목록으로]</a></span>&nbsp;</p>
+            </td>
+        </tr>
+</table>
+</form>
+</body>
+
+</html>
