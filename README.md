@@ -1,20 +1,25 @@
 <h1 align="center">📰Board</h1>
 
+<center>
+&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp; 
+</center><br >
+
 > 간단한 게시판 프로그램입니다.
 
-[여기](http://st02.dothome.co.kr/project01/view.php)를 클릭해서 게시물을 직접 작성해보세요.
-아래의 사용법을 참고하세요.👇
+[여기](http://st02.dothome.co.kr/project01/view.php)를 클릭해서 게시물을 직접 작성해보세요.  
+아래의 사용법을 참고하세요.👇  
+___
 
 ### 📌사용법 및 기능
-___
+<br />
 
 **1. 회원가입/로그인**
 
-    ![sign, login](https://user-images.githubusercontent.com/76769831/105800243-a7a3bd80-5fd9-11eb-97a7-71d2d448e225.gif)
+![sign, login](https://user-images.githubusercontent.com/76769831/105812377-61f2ef00-5ff1-11eb-92d5-481d7e5de968.gif)
 
 **2. 게시물 작성**
 
-    ![insert](https://user-images.githubusercontent.com/76769831/105808203-a9c24800-5fea-11eb-89c3-3199a73f3a2b.gif)
+![insert](https://user-images.githubusercontent.com/76769831/105808203-a9c24800-5fea-11eb-89c3-3199a73f3a2b.gif)
 
 **3. 댓글 작성**
     
